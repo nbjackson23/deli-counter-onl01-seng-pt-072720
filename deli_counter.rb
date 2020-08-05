@@ -1,4 +1,4 @@
-var katzDeli = []; // At the beginning of the day,
+var katzDeli = []; // the beginning of the day,
 //the deli is empty and is represented by an empty array
 //<<<<<<<<<--------------- in the instructions <<<<<<
 
